@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Task-Terminal_Task_Synthesis-2D8BC3" alt="Task">
   <img src="https://img.shields.io/badge/Framework-FACET-5AAFE0" alt="Framework">
   <a href="https://arxiv.org/abs/2608.18580"><img src="https://img.shields.io/badge/arXiv-2608.18580-B31B1B" alt="arXiv"></a>
+  <a href="https://huggingface.co/papers/date/2026-08-21"><img src="https://img.shields.io/badge/Hugging_Face_Daily_Papers-%232-FFD21E" alt="Hugging Face Daily Papers #2"></a>
   <img src="https://img.shields.io/badge/Python-3.11--3.13-3776AB" alt="Python">
   <img src="https://img.shields.io/badge/License-Apache--2.0-7AAED1" alt="License">
 </p>
@@ -23,6 +24,7 @@
 
 # 🔥 News
 
+- **`2026-08-21`**: FACET ranked **#2** on [Hugging Face Daily Papers](https://huggingface.co/papers/date/2026-08-21).
 - **`2026-08-20`**: Released FACET-Terminal-Tasks-6k with **6,020** tasks, together with the 4B, 9B, and 27B model checkpoints.
 - **`2026-08-20`**: The FACET paper is now available on [arXiv](https://arxiv.org/abs/2608.18580).
 - **`2026-08-19`**: Released the FACET-Terminal task-synthesis code preview and project page.
